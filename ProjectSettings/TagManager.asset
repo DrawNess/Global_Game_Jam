@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - player
+  - puerta01
+  - puerta02
+  - GO_fade
   layers:
   - Default
   - TransparentFX
