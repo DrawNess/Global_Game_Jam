@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7626fd9a9a623a5499b16e44a313bff0
+guid: a63940162fdc94b498a6e9715924d1e6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -81,7 +81,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-  
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -95,7 +94,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -109,7 +107,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -123,7 +120,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-
     buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -138,135 +134,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-
-    sprites:
-    - serializedVersion: 2
-      name: AnimacionDescanso_Derecha_Mantis_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1
-        width: 48
-        height: 46
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4fec51e3bd5310f40a9d8580faf55b7e
-      internalID: 1362480216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AnimacionDescanso_Derecha_Mantis_1
-      rect:
-        serializedVersion: 2
-        x: 53
-        y: 0
-        width: 48
-        height: 46
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 52baf0fdeaacbc54c8720d455512373e
-      internalID: 2123999382
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AnimacionDescanso_Derecha_Mantis_2
-      rect:
-        serializedVersion: 2
-        x: 106
-        y: 0
-        width: 48
-        height: 46
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b28354c8580b8754e868248c9915a41e
-      internalID: -1225459163
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AnimacionDescanso_Derecha_Mantis_3
-      rect:
-        serializedVersion: 2
-        x: 159
-        y: 0
-        width: 48
-        height: 46
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7b8572ff1c722ed47863f5fd098c46de
-      internalID: -1229127599
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AnimacionDescanso_Derecha_Mantis_4
-      rect:
-        serializedVersion: 2
-        x: 212
-        y: 1
-        width: 48
-        height: 46
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6cafd2d5247f13b44a5902f01e4b9577
-      internalID: -2017965831
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AnimacionDescanso_Derecha_Mantis_5
-      rect:
-        serializedVersion: 2
-        x: 265
-        y: 1
-        width: 48
-        height: 46
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 32d23fc2bbce9844681214dafdc6a996
-      internalID: -915279331
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -277,15 +145,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-
-    nameFileIdTable:
-      AnimacionDescanso_Derecha_Mantis_0: 1362480216
-      AnimacionDescanso_Derecha_Mantis_1: 2123999382
-      AnimacionDescanso_Derecha_Mantis_2: -1225459163
-      AnimacionDescanso_Derecha_Mantis_3: -1229127599
-      AnimacionDescanso_Derecha_Mantis_4: -2017965831
-      AnimacionDescanso_Derecha_Mantis_5: -915279331
-
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

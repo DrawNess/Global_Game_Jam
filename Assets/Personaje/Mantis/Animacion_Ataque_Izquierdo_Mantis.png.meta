@@ -1,5 +1,7 @@
 fileFormatVersion: 2
+
 guid: 3cbdfad7f297a7243b7b112058cc3c30
+
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -22,7 +24,7 @@ TextureImporter:
     normalMapFilter: 0
     flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
+  streamingMipmaps: 0zzzzzzzzzzzzzzzzzzzzzzzz
   streamingMipmapsPriority: 0
   vTOnly: 0
   ignoreMipmapLimit: 0
@@ -34,7 +36,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
+
     filterMode: 0
+
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,12 +47,16 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
+
   spriteMode: 2
+
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
+
   spritePixelsToUnits: 30
+
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -81,6 +89,21 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
+
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -94,6 +117,21 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
+
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+
     buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -108,6 +146,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
+
     sprites:
     - serializedVersion: 2
       name: Animacion_Ataque_Izquierdo_Mantis_0
@@ -445,6 +484,7 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+
     outline: []
     physicsShape: []
     bones: []
@@ -455,6 +495,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+
     nameFileIdTable:
       Animacion_Ataque_Izquierdo_Mantis_0: -1303885050
       Animacion_Ataque_Izquierdo_Mantis_1: 381701177
@@ -472,6 +513,7 @@ TextureImporter:
       Animacion_Ataque_Izquierdo_Mantis_7: 604521960
       Animacion_Ataque_Izquierdo_Mantis_8: -348711606
       Animacion_Ataque_Izquierdo_Mantis_9: 887539654
+
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
