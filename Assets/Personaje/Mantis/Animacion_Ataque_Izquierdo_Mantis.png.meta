@@ -1,5 +1,7 @@
 fileFormatVersion: 2
-guid: 1dd091a0217ef9b479c7deed43634142
+
+guid: 3cbdfad7f297a7243b7b112058cc3c30
+
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -22,7 +24,7 @@ TextureImporter:
     normalMapFilter: 0
     flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
+  streamingMipmaps: 0zzzzzzzzzzzzzzzzzzzzzzzz
   streamingMipmapsPriority: 0
   vTOnly: 0
   ignoreMipmapLimit: 0
@@ -34,7 +36,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+
+    filterMode: 0
+
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,12 +47,16 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+
+  spriteMode: 2
+
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+
+  spritePixelsToUnits: 30
+
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -81,6 +89,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
+
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -94,6 +103,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
+
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -107,6 +117,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
+
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -120,6 +131,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
+
     buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -134,7 +146,345 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+
+    sprites:
+    - serializedVersion: 2
+      name: Animacion_Ataque_Izquierdo_Mantis_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320a4727d4445e9428e2fbba60028497
+      internalID: -1303885050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion_Ataque_Izquierdo_Mantis_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dad27ce2cec8bd489afbf77b59be86c
+      internalID: 381701177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion_Ataque_Izquierdo_Mantis_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f7e47fd24c4ab48a771c8f23fe4d48
+      internalID: 1601564648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion_Ataque_Izquierdo_Mantis_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67d1805de463c64db1da82b36fca5d8
+      internalID: -711923079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion_Ataque_Izquierdo_Mantis_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e220640e3cc6b48bbf524bb89802da
+      internalID: -2038012096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion_Ataque_Izquierdo_Mantis_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f94c0688d5e0140a91262ea792f131
+      internalID: -1865123316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion_Ataque_Izquierdo_Mantis_6
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a668ebd94f8354fa81a55f57081481
+      internalID: 13763183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion_Ataque_Izquierdo_Mantis_7
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11283dda3241b754296f89a9c8e4d0a2
+      internalID: 604521960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion_Ataque_Izquierdo_Mantis_8
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086ef3e5d05f42e43b23b80481c6aa7e
+      internalID: -348711606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion_Ataque_Izquierdo_Mantis_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0991aba6f069eeb47b97f71e252bcea2
+      internalID: 887539654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion_Ataque_Izquierdo_Mantis_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534363d1f8026234bb6b20539419cc10
+      internalID: 1177790384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion_Ataque_Izquierdo_Mantis_11
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f62df1bcea57e6418df0fd908b501cc
+      internalID: -892705300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion_Ataque_Izquierdo_Mantis_12
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761c6faf08231e34fa5f057775ecd287
+      internalID: -675395385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion_Ataque_Izquierdo_Mantis_13
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f5c6f4568167d40bc45f8a8129e823
+      internalID: 940697581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion_Ataque_Izquierdo_Mantis_14
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623ade31cbd5d8c43a30255f25af9789
+      internalID: 1977820711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion_Ataque_Izquierdo_Mantis_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcef185807d402141a73ba56827a884e
+      internalID: -1969776830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+
     outline: []
     physicsShape: []
     bones: []
@@ -145,7 +495,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+
+    nameFileIdTable:
+      Animacion_Ataque_Izquierdo_Mantis_0: -1303885050
+      Animacion_Ataque_Izquierdo_Mantis_1: 381701177
+      Animacion_Ataque_Izquierdo_Mantis_10: 1177790384
+      Animacion_Ataque_Izquierdo_Mantis_11: -892705300
+      Animacion_Ataque_Izquierdo_Mantis_12: -675395385
+      Animacion_Ataque_Izquierdo_Mantis_13: 940697581
+      Animacion_Ataque_Izquierdo_Mantis_14: 1977820711
+      Animacion_Ataque_Izquierdo_Mantis_15: -1969776830
+      Animacion_Ataque_Izquierdo_Mantis_2: 1601564648
+      Animacion_Ataque_Izquierdo_Mantis_3: -711923079
+      Animacion_Ataque_Izquierdo_Mantis_4: -2038012096
+      Animacion_Ataque_Izquierdo_Mantis_5: -1865123316
+      Animacion_Ataque_Izquierdo_Mantis_6: 13763183
+      Animacion_Ataque_Izquierdo_Mantis_7: 604521960
+      Animacion_Ataque_Izquierdo_Mantis_8: -348711606
+      Animacion_Ataque_Izquierdo_Mantis_9: 887539654
+
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
